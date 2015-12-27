@@ -1,0 +1,4 @@
+This Matlab project is able to read the input of a 3-axis accelerometer.
+
+Run the main file: acc_MENU.m, select the COM port where the accelerometer sensor is,
+and you will see each of the axis data plotted independently. 
